@@ -50,27 +50,7 @@ font-size: 14px;
 font-weight: 400;
 line-height: 20px;
 }
-
-
-.hero{
-    padding: 80px;
-}
-.hero-title{
-    color: rgb(13, 38, 59);
-font-family: "Montserrat";
-font-size: 28px;
-font-weight: 600;
-line-height: 36px;
-letter-spacing: -2%;
-text-align: center;
-margin: 0 auto;
-}
-.hero-text{
-    color: rgb(105, 105, 105);
-font-family: "Montserrat";
-font-size: 16px;
-font-weight: 400;
-line-height: 24px;
-letter-spacing: 0%;
-text-align: center;
+.hero_box{
+    display: flex;
+    width: 600px;
 }
